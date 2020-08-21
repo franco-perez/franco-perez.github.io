@@ -105,22 +105,26 @@
   "education": [
     {
       "institution": "Universität Stuttgart",
+      "link": "https://www.uni-stuttgart.de/",
       "area": "Energietechnik",
       "studyType": "M.Sc.",
       "startDate": "10/2016",
       "endDate": "12/2019",
       "gpa": "2.3",
-      "courses": [" Schwerpunkt 1: Erneuerbare thermische Energiesysteme","Schwerpunkt 2: Windenergie"
+      "focus":"Erneuerbare thermische Energiesysteme, Windenergie",
+      "courses": [
       ]
     },
     {
       "institution": "Universidad de Tarapacá",
+      "link": "https://www.uta.cl/",
       "area": "Maschinenbau",
       "studyType": "Äq. Diplom ",
       "startDate": "03/2009",
       "endDate": "05/2016",
-      "gpa": "6.2 (Äq. 1.7)",
-      "courses": ["Schwerpunkt 1: Konstruktion", "Schwerpunkt 2: Strömungssimulation"
+      "gpa": "1.7",
+      "focus":"Konstruktion, Strömungssimulation",
+      "courses": [
       ]
     }
   ],
