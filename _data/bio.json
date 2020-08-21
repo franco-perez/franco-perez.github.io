@@ -128,10 +128,10 @@
     {
       "company": "Robert Bosch GmbH",
       "position": "Koordinator",
-      "website": "www.bosch.com",
+      "website": "https://www.bosch.com/",
       "startDate": "02/2018",
       "endDate": "01/2020",
-      "summary": "Unterstützung verschiedener Teams im Bereich Powertrain Solutions",
+      "summary": "Unterstützung verschiedener Teams im Bereich Powertrain Solutions <br><u>Größte Erfolge: </u>",
       "highlights": [
         "Koordination von 5 Studenten mit Erhöhung der Auftragsanzahl um 20% im Vergleich zum Vorjahr",
         "Programmier- und Automatisierungsaufgaben (Matlab, Python und Excel VBA)",
@@ -144,7 +144,7 @@
       "website": "https://www.ier.uni-stuttgart.de/",
       "startDate": "01/2017",
       "endDate": "02/2018",
-      "summary": "Technische und ökonomische Studien für Solar Mining; Erneuerbare Energien im chilenischen Bergbau",
+      "summary": "Technische und ökonomische Studien für Solar Mining; Erneuerbare Energien im chilenischen Bergbau<br><u>Größte Erfolge: </u>",
       "highlights": [
         "Auslegung eines Rohrsystems (Matlab) und Berechnung dessen Machbarkeit (Excel)",
         "Solarressource Berechnungsüberprüfung eines Skriptes (Matlab)"
