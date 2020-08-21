@@ -13,7 +13,7 @@ labels:
 summary: Unser Team arbeitet in der Entwicklung eines IoT Umgebung zur Messdatenerfassung eines hydroponischen Salatanbaus in der Atacama Wüste in Chile.
 ---
 
-<div class="ui small rounded right image">
+<div class="ui small rounded image">
   <img class="ui image" src="../images/Sist_aquaponico_github.jpg">
 </div>
 
