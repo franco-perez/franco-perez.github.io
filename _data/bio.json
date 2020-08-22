@@ -132,7 +132,7 @@
     {
       "company": "Robert Bosch GmbH",
       "position": "Koordinator",
-      "website": "",
+      "website": "https://www.bosch.com/",
       "startDate": "02/2018",
       "endDate": "01/2020",
       "summary": "Programmier- und Automatisierungsaufgaben (Matlab, Python und Excel VBA) <br><u>Größte Erfolge: </u>",
@@ -142,9 +142,9 @@
       ]
     },
     {
-      "company": "Institut IER aus der Universität Stuttgart",
+      "company": "IER Stuttgart",
       "position": "Wissenschaftlicher Hilfskraft mit Diplom",
-      "website": "",
+      "website": "https://www.ier.uni-stuttgart.de/",
       "startDate": "01/2017",
       "endDate": "02/2018",
       "summary": "Technische und ökonomische Studien für Solar Mining; Erneuerbare Energien im chilenischen Bergbau<br><u>Größte Erfolge: </u>",
@@ -156,7 +156,7 @@
       {
         "company": "Krones AG",
         "position": "Freiwilliger Praktikant",
-        "website": "",
+        "website": "https://www.krones.com/de/index.php",
         "startDate": "03/2015",
         "endDate": "07/2015",
         "summary": "Modellbildung und numerische Strömungssimulation für Befüllsysteme (ANSYS, OpenFOAM) <br><u>Größter Erfolg: </u>",
@@ -168,7 +168,7 @@
       {
         "company": "Universidad de Tarapacá",
         "position": "Hilfskraft",
-        "website": "",
+        "website":"https://www.uta.cl/" ,
         "startDate": "03/2013",
         "endDate": "11/2013",
         "summary": "Tutor für die Fächer Werkstoffkunde und Materialien des Ingenieurwesens",
@@ -177,7 +177,7 @@
       {
         "company": "Cormetar S.A.",
         "position": "Praktikant",
-        "website": "",
+        "website": "www.cormetar.cl/",
         "startDate": "01/2013",
         "endDate": "03/2013",
         "summary": "Montage und Instandhaltung von Bergbaumaschinen",
@@ -186,7 +186,7 @@
   "volunteer": [
     {
       "organization": "Dx4 Dienstleistung",
-      "website": "https://www.facebook.com/Dx4-123695292441245/",
+      "website":,
       "position": "Projektmanager",
       "startDate": "05/2020",
       "endDate": "Present",
