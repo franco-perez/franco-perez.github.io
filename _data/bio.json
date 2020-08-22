@@ -132,20 +132,19 @@
     {
       "company": "Robert Bosch GmbH",
       "position": "Koordinator",
-      "website": "https://www.bosch.com/",
+      "website": "",
       "startDate": "02/2018",
       "endDate": "01/2020",
-      "summary": "Unterstützung verschiedener Teams im Bereich Powertrain Solutions <br><u>Größte Erfolge: </u>",
+      "summary": "Programmier- und Automatisierungsaufgaben (Matlab, Python und Excel VBA) <br><u>Größte Erfolge: </u>",
       "highlights": [
         "Koordination von 5 Studenten mit Erhöhung der Auftragsanzahl um 20% im Vergleich zum Vorjahr",
-        "Programmier- und Automatisierungsaufgaben (Matlab, Python und Excel VBA)",
         "Einführung Bewertungsbogen zur Verbesserung der Qualitätssicherung"
       ]
     },
     {
       "company": "Institut IER aus der Universität Stuttgart",
       "position": "Wissenschaftlicher Hilfskraft mit Diplom",
-      "website": "https://www.ier.uni-stuttgart.de/",
+      "website": "",
       "startDate": "01/2017",
       "endDate": "02/2018",
       "summary": "Technische und ökonomische Studien für Solar Mining; Erneuerbare Energien im chilenischen Bergbau<br><u>Größte Erfolge: </u>",
@@ -153,7 +152,36 @@
         "Auslegung eines Rohrsystems (Matlab) und Berechnung dessen Machbarkeit (Excel)",
         "Solarressource Berechnungsüberprüfung eines Skriptes (Matlab)"
       ]
-    }
+    },
+      {
+        "company": "Krones AG",
+        "position": "Freiwilliger Praktikant",
+        "website": "",
+        "startDate": "03/2015",
+        "endDate": "07/2015",
+        "summary": "Modellbildung und numerische Strömungssimulation für Befüllsysteme (ANSYS, OpenFOAM) <br><u>Größter Erfolg: </u>",
+        "highlights": [
+          "Eigenständige Strömungssimulationen komplizierter Geometrien"
+          
+        ]
+      },
+      {
+        "company": "Universidad de Tarapacá",
+        "position": "Hilfskraft",
+        "website": "",
+        "startDate": "03/2013",
+        "endDate": "11/2013",
+        "summary": "Tutor für die Fächer Werkstoffkunde und Materialien des Ingenieurwesens",
+        "highlights":
+      },
+      {
+        "company": "Cormetar S.A.",
+        "position": "Praktikant",
+        "website": "",
+        "startDate": "01/2013",
+        "endDate": "03/2013",
+        "summary": "Montage und Instandhaltung von Bergbaumaschinen",
+        "highlights":       }
   ],
   "volunteer": [
     {
