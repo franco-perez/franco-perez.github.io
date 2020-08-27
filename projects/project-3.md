@@ -1,18 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
+image: images/Schaltschrank_portada.jpg
+title: " Instationäre Temperaturberechnung im inneren von Schaltschränken" 
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-10-22
 labels:
-  - Lisp
+  - Python
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Grobstrukturmodell
+
+summary: Diese Arbeit stellt ein in Python® entwickeltes Modell zur Berechnung der transienten Temperaturverläufe innerhalb eines Schaltschrankes dar.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/Schaltschrank.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
