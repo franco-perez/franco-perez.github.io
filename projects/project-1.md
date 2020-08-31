@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/Sist_aquaponico_github.jpg
-title: Smart farming in der Atacama wüste
+title: Smart farming in der Atacama-Wüste
 permalink: projects/smart_farming
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-01
@@ -10,7 +10,7 @@ labels:
   - Smart farming
   - IoT
   - Sensorik
-summary: Unser Team arbeitet in der Entwicklung eines IoT Umgebung zur Messdatenerfassung eines hydroponischen Salatanbaus in der Atacama Wüste in Chile.
+summary: Unser Team arbeitet in der Entwicklung einer IoT Umgebung zur Messdatenerfassung eines hydroponischen Salatanbaus in der Atacama-Wüste in Chile.
 ---
 
 <div class="ui small rounded images">

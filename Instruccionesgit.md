@@ -6,6 +6,9 @@
 
 Haz click en [Markdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) para acceder a un breve tutorial de markdown
 
+accede a [formulas matematicas en markdown](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
+para mas informacion
+
 # La forma de hacer graficos livianos y programados
 
 para mayor informacion revisa el archivo de extension .md
