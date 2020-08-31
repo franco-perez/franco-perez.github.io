@@ -10,5 +10,10 @@ import numpy as np
 ex
 ```
 
+- [x] Add Master Thesis
+- [x] Add Studienarbeit
+- [x] Add Easygalp
+- [x] Add Stahlbrücke mit Solidworks und Ansys
+- [x] Add Leistungskurve nach IEC61400 Windenergielabor
 
 
