@@ -4,10 +4,11 @@
     "label": "M.Sc. Energietechnik / Ing. Maschinenbau",
     "picture": "https://franco-perez.github.io/images/Perez_Foto.png",
     "email": "franco.perez.montt@gmail.com",
-    "phone": "(+49) 1577 2192486",
+    "phone": "+49 1577 219 2486",
     "website": "https://franco-perez.github.io",
     "summary": " Versierter, offener und lernbereiter Ingenieur mit rascher Auffassungsgabe. Technologiebegeistert mit fundiertem technischem Wissen und Erfahrung in der Automobilindustrie u.a. als Teamkoordinator.",
     "location": {
+      "co_name":"c/o Schaumann",
       "address": "Breslauer Str. 6",
       "postalCode": "71111",
       "city": "Waldenbuch",
