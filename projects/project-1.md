@@ -18,14 +18,13 @@ summary: Unser Team arbeitet in der Entwicklung einer IoT Umgebung zur Messdaten
 </div>
 
 
-<div style="text-align: justify"> 
 <br>
-Die Landwirtschaft der Atacama Wüste hat unter anderem mit Wassermangel und extremen Wetterbedingungen zu kämpfen. Was eine ernste Problematik für die Landwirte der Region darstellt. In diesem Projekt untertstützen wir den hydroponsichen Salatanbau einer Landwirtin aus <a href="https://en.wikipedia.org/wiki/Caleta_V%C3%ADtor">Caleta Vitor</a><br><br>
+Die Landwirtschaft der Atacama-Wüste hat unter anderem mit Wassermangel und extremen Wetterbedingungen zu kämpfen. Was eine ernste Problematik für die Landwirte der Region darstellt. In diesem Projekt unterstützen wir den hydroponischen Salatanbau einer Landwirtin aus  [Caleta Vitor](https://en.wikipedia.org/wiki/Caleta_V%C3%ADtor).
   
-Für dieses Projekt platzieren wir verschidene Sensoren zur Datenerfassung der Temperatur, Solarstrahlung, PH-Werten, Wasserströmen u. a. Die erfasste Daten werden über ein lokales Netzwerk (LoRaWAN) gespeichert und bearbeitet. Anschließen kriegt der Endkunde eine graphische Darstellung der Ist-Wert seiner Anlage. Mit dieser Lösung kann der Landwirt mit der ermittelten Information Entscheidungen treffen, die zum Schutz der Ernte dient.<br><br>
+Für dieses Projekt platzieren wir verschiedene Sensoren zur Datenerfassung von Temperatur, Solarstrahlung, PH-Werten, Wasserströmen u. a. Die erfassten Daten werden über ein lokales Netzwerk (LoRaWAN) gespeichert und bearbeitet. Anschließen erhält der Endkunde eine graphische Darstellung der Ist-Werte seiner Anlage. Mit dieser Lösung kann der Landwirt mit der ermittelten Information Entscheidungen treffen, die zum Schutz der Ernte dienen.<br><br>
 
-Zur weiteren Informationen der technischen Entwicklung dieses Projektes kontaktieren Sie mich bitte via <a href="mailto:franco.perez.montt@gmail.com">Email</a>  
- </div> 
+Für weitere Informationen zur technischen Entwicklung dieses Projektes sowie Interesse an eine kooperative Arbeit schreiben Sie mich bitte an <mailto:franco.perez.montt@gmail.com>  
+ 
 
 
 
