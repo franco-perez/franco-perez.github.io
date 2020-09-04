@@ -138,8 +138,9 @@
       "endDate": "01/2020",
       "summary": "Programmier- und Automatisierungsaufgaben (Matlab, Python und Excel VBA) <br><u>Größte Erfolge: </u>",
       "highlights": [
-        "Koordination von 5 Studenten mit Erhöhung der Auftragsanzahl um 20% im Vergleich zum Vorjahr",
-        "Einführung Bewertungsbogen zur Verbesserung der Qualitätssicherung"
+        "Koordination von 5 Studenten mit Steigerung des Auftragsvolumens um 20% im Vergleich zum Vorjahr.",
+        "Automatische Erstellung von Statistiken zum CO2-Ausstoß (Excel, Python, Matlab).",
+        "Automatische Datenerfassung aus HTML-Quellen (Python)."
       ]
     },
     {
@@ -150,8 +151,8 @@
       "endDate": "02/2018",
       "summary": "Technische und ökonomische Studien für Solar Mining; Erneuerbare Energien im chilenischen Bergbau<br><u>Größte Erfolge: </u>",
       "highlights": [
-        "Auslegung eines Rohrsystems (Matlab) und Berechnung dessen Machbarkeit (Excel)",
-        "Solarressource Berechnungsüberprüfung eines Skriptes (Matlab)"
+        "Rohrauslegung (Matlab) und Berechnung dessen Machbarkeit (Excel).",
+        "Überprüfung von Skripten zur Solar Resource-Berechnung (Matlab, Excel)."
       ]
     },
       {
@@ -160,9 +161,11 @@
         "website": "https://www.krones.com/de/index.php",
         "startDate": "03/2015",
         "endDate": "07/2015",
-        "summary": "Modellbildung und numerische Strömungssimulation für Befüllsysteme (ANSYS, OpenFOAM) <br><u>Größter Erfolg: </u>",
+        "summary": "Modellbildung und numerische Strömungssimulation für Befüllsysteme (ANSYS, OpenFOAM) <br><u>Größte Erfolge: </u>",
         "highlights": [
-          "Eigenständige Strömungssimulationen komplizierter Geometrien"
+          "Aufbereiten von CFD-Geometrien (ANSYS Workbench).",
+          "Durchführung von CFD-Simulationen (ANSYS FLUENT, OpenFOAM).",
+          "Vernetzung komplexer Geometrien und Durchführung von FEM-Simulationen."
           
         ]
       },
@@ -191,11 +194,10 @@
       "position": "Projektmanager",
       "startDate": "05/2020",
       "endDate": "Present",
-      "summary": " Entwicklung eines Datenerfassungssystem für ein Hydroponisches System in der chilenischen Wüste",
+      "summary": " Entwicklung eines Datenerfassungssystem für ein Hydroponisches System in der chilenischen Wüste (Fernarbeit).",
       "highlights": [
-        "Koordination eines Teams (6 Personen)",
-        "Zuständiger der thermischen Berechnung des hydroponischen Systems",  
-        "Zuständiger Qualitätssicherung"     
+        "Koordination eines Teams von 6 Personen (Jira-Scrum, Github)",
+        "Zuständiger thermischer Berechnung (ANSYS, Solidworks, Fusion 360)"     
       ]
     }
   ],
@@ -203,14 +205,14 @@
     {
       "title": "KOSPIE-Stipendium",
       "date": "2014-2015",
-      "awarder": "Deutscher Akademischer Austausch Dienst (DAAD)",
+      "awarder": "Deutscher Akademischer Austausch Dienst (DAAD) <",
       "summary": "Einjähriges Austauschstudium an der OTH-Regensburg."
     },
     {
       "title": "Herausragende Leistung",
       "date": "2012",
       "awarder": "Universidad de Tarapacá",
-      "summary": "Preis für beste Leistung der Fakultät Maschinenbau und deren 5 Studiengängen"
+      "summary": "Preis für beste Leistung der Fakultät Maschinenbau und deren 5 Studiengänge"
     }
   ],
   "languages": [
