@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Schaltschrank_portada.jpg
 title: " Instationäre Temperaturberechnung im Inneren von Schaltschränken" 
-permalink: projects/cotton
+permalink: projects/schaltschrank
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-22
 labels:
